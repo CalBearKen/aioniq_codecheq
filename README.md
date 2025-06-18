@@ -25,7 +25,7 @@ pip install codecheq
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codecheq.git
+git clone https://github.com/CalBearKen/aioniq_codecheq.git
 cd codecheq
 
 # Install in editable mode
